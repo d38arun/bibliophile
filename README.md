@@ -1,0 +1,1 @@
+This is just the begining of a small project for GO.
