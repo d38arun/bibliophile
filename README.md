@@ -1,1 +1,1 @@
-This is just the begining of a small project for GO.
+This is just the beginning of a small project for GO.
